@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ilijah13.github.io/movies-app/static/css/main.482d159d.css",
+    "main.js": "/ilijah13.github.io/movies-app/static/js/main.6b905a58.js",
+    "index.html": "/ilijah13.github.io/movies-app/index.html",
+    "main.482d159d.css.map": "/ilijah13.github.io/movies-app/static/css/main.482d159d.css.map",
+    "main.6b905a58.js.map": "/ilijah13.github.io/movies-app/static/js/main.6b905a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.482d159d.css",
+    "static/js/main.6b905a58.js"
+  ]
+}
